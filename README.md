@@ -4,10 +4,10 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 The Goal for 1st Notebook: Data Exploratory and Cleaning
 An exploratory analysis is carried out to understand the data and to obtain some insights that would help me to make further decision on how to preprocess the data.
 
-## The Goal for 1st Notebook: Data Exploratory and Cleaning
+### The Goal for 1st Notebook: Data Exploratory and Cleaning
 An exploratory analysis is carried out to understand the data and to obtain some insights that would help me to make further decision on how to preprocess the data.
 
-### Methodology
+#### Methodology
 1.	Explore the numeric attributes with visualizations and quantitative tables
 2.	Explore the categorical attributes with visualizations and quantitative tables
 3.	Remove outliers for numerical attributes
@@ -15,10 +15,10 @@ An exploratory analysis is carried out to understand the data and to obtain some
 5.	Data transformation
 6.	Split the data in 80%,20% for future modeling building work
 
-## The Goal for 2nd Notebook: Customer Segmentation Analysis
+### The Goal for 2nd Notebook: Customer Segmentation Analysis
 In this section, the unsupervised clustering technique is applied to learn the characteristic of different customer segments. I also plan to look for any shared features that might influence different cluster to make their decision to subscribe the product.
 
-### Methodology
+#### Methodology
 1.	Feature Selection: remove less predictive feature
 2.	Clustering: Find optimal cluster number by elbow method and Silhouette score method
 3.	Visualization: visualize the clustering results in 2D by applying the Principle Component Analysis to reduce the dimension
