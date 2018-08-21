@@ -16,7 +16,7 @@ An exploratory analysis is carried out to understand the data and to obtain some
 6.	Split the data into 80%,20% for future modeling building work
 
 ### The Goal for 2nd Notebook: Customer Segmentation Analysis
-In this section, the unsupervised clustering technique is applied to learn the characteristic of different customer segments. I also plan to look for any shared features that might influence different cluster to make their decision to subscribe the product.
+In this section, the unsupervised clustering technique is applied to learn the characteristic of different customer segments. I also analyze the shared features among clusters that are influential for clients to make their decision to subscribe the product.
 
 #### Methodology
 1.	Feature Selection: remove the less predictive features
