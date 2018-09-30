@@ -16,9 +16,8 @@ An exploratory analysis is carried out to understand the data and to obtain some
 6.	Split the data into 80%,20% for future model building work
 
 ### The Goal for 2nd Notebook: Customer Segmentation Analysis
-In this section, the unsupervised clustering technique is applied to learn the characteristic of different customer segments. I also analyze the shared features among clusters that are influential for clients to make their decision to subscribe the product.
+In this section, The K-means clustering technique is applied to find the customer clusters. The characteristic and the shared features among different customer segments are analyzed to find out the most influential features for customers to make their decision to subscribe the product.
 
-#### Methodology
 1.	Feature Selection: remove the less predictive features
 2.	K means Clustering: Find optimal cluster number by elbow method and Silhouette score method
 3.	Visualization: visualize the clustering results in 2D by applying the Principle Component Analysis to reduce the dimension
